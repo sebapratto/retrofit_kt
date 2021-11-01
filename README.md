@@ -1,2 +1,2 @@
-# RetrofitKotlinExample
-Proyecto de demostración para el tutorial https://cursokotlin.com
+# Retrofit2 with kotlin
+
